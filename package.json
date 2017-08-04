@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "description": "Cloud Foundry Deployment Manifest YAML support for Atom",
   "repository": "https://github.com/spring-projects/sts4/atom-extensions/atom-manifest-yaml",
+  "icon": "icon.png",
   "license": "MIT",
   "engines": {
     "atom": ">=1.17.0"
@@ -14,9 +15,6 @@
     "lib/"
   ],
   "dependencies": {
-    "decompress": "^4.2.0",
-    "portfinder": "^1.0.13",
-    "remote-file-size": "^3.0.3",
     "pivotal-atom-languageclient-commons": "0.0.1"
   },
   "devDependencies": {
