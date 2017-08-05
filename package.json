@@ -16,7 +16,7 @@
     "properties.json"
   ],
   "dependencies": {
-    "pivotal-atom-languageclient-commons": "0.0.2"
+    "pivotal-atom-languageclient-commons": "0.0.3"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
