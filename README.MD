@@ -51,6 +51,6 @@ read its detailed documentation.
 
 [linting]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/3e485d98ca1f5fb5ca3d780ffd85cd8e4e9e96be/readme-imgs/linting.png
 [ca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/3e485d98ca1f5fb5ca3d780ffd85cd8e4e9e96be/readme-imgs/content-assist.png
-[dcfca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/3e485d98ca1f5fb5ca3d780ffd85cd8e4e9e96be/readme-imgs/cf-dynamic-content-assist.png
+[dcfca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/0d86220a88f44000f4a2ae0dd11b211aec319fb2/readme-imgs/cf-dynamic-content-assist.png
 [hovers]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/3e485d98ca1f5fb5ca3d780ffd85cd8e4e9e96be/readme-imgs/hovers.png
 
