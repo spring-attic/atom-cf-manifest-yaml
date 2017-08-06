@@ -49,8 +49,8 @@ read its detailed documentation.
 5. Perform `Reload Window` in Atom (Cmd-Shift-P opens commands palette, search for `reaload`, select, press `Return`)
 6. Open any `manifest.yml` file in Atom observe reconciling, content assist and other IDE features
 
-[linting]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/7ba2a3cd1f1a1a7067ccf26266196757cc1acbf3/readme-imgs/linting.png
-[ca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/7ba2a3cd1f1a1a7067ccf26266196757cc1acbf3/readme-imgs/content-assist.png
-[dcfca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/c504571767d2a4a95a2442281b66db10e59f5610/readme-imgs/cf-dynamic-content-assist.png
-[hovers]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/7ba2a3cd1f1a1a7067ccf26266196757cc1acbf3/readme-imgs/hovers.png
+[linting]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/5c4e27ecb18eb497064a34f491cfcd4176493c78/readme-imgs/linting.png
+[ca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/5c4e27ecb18eb497064a34f491cfcd4176493c78/readme-imgs/content-assist.png
+[dcfca]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/5c4e27ecb18eb497064a34f491cfcd4176493c78/readme-imgs/cf-dynamic-content-assist.png
+[hovers]: https://raw.githubusercontent.com/spring-projects/atom-cf-manifest-yaml/5c4e27ecb18eb497064a34f491cfcd4176493c78/readme-imgs/hovers.png
 
