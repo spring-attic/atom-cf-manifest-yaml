@@ -36,7 +36,7 @@ Dynamic content assist also shows which Cloud target you are connected to.
 
 ### Documentation Hovers
 
-Having trouble remembering exactly what the meaning of each attribute is? Install `atom-ide-ui` packahe, hover over any attribute and 
+Having trouble remembering exactly what the meaning of each attribute is? Install `atom-ide-ui` package, hover over any attribute and 
 read its detailed documentation.
 
 ![Hover Docs Screenshot][hovers]
