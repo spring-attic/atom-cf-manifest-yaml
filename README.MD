@@ -4,6 +4,8 @@
 This extension provides basic validation, content assist and hover infos
 for editing Cloud Foundry [Manifest](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html) Files.
 
+It is recommended to use this extension package when `atom-ide-ui` atom extension package is installed. Thus, reconciling (error/warning markers) and hover support is fully functional. 
+
 ## Usage
 
 The CF manifest editor automatically activates when the name of the file you are editing is `manifest.yml` or editor grammar is set to `Manifest-YAML`
@@ -12,7 +14,7 @@ The CF manifest editor automatically activates when the name of the file you are
 
 ### Validation
 
-As you type the manifest is parsed and checked for basic syntactic and structural correctness. Hover over
+(Requires `atom-ide-ui` package) As you type the manifest is parsed and checked for basic syntactic and structural correctness. Hover over
 an error marker to see an explanation.
 
 ![Linting Screenshot][linting]
@@ -36,7 +38,7 @@ Dynamic content assist also shows which Cloud target you are connected to.
 
 ### Documentation Hovers
 
-Having trouble remembering exactly what the meaning of each attribute is? Install `atom-ide-ui` package, hover over any attribute and 
+(Requires `atom-ide-ui` package) Having trouble remembering exactly what the meaning of each attribute is? Hover over any attribute and 
 read its detailed documentation.
 
 ![Hover Docs Screenshot][hovers]
