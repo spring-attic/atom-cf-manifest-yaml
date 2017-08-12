@@ -1,5 +1,5 @@
 {
-  "name": "pivotal-atom-cf-manifest-yaml",
+  "name": "atom-cf-manifest-yaml",
   "main": "./lib/main",
   "version": "0.0.3",
   "description": "Cloud Foundry Deployment Manifest YAML support for Atom",
@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "download": "^6.2.5",
-    "pivotal-atom-languageclient-commons": "0.0.4"
+    "pivotal-atom-languageclient-commons": "0.0.5"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
