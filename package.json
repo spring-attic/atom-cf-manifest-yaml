@@ -1,5 +1,5 @@
 {
-  "name": "atom-cf-manifest-yaml",
+  "name": "cf-manifest-yaml",
   "main": "./lib/main",
   "version": "0.0.4",
   "description": "Cloud Foundry Deployment Manifest YAML support for Atom",
