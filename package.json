@@ -69,8 +69,5 @@
         "0.0.0": "provideOutlines"
       }
     }
-  },
-  "bundledDependencies": [
-    "pivotal-atom-languageclient-commons"
-  ]
+  }
 }
