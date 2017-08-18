@@ -69,5 +69,10 @@
         "0.0.0": "provideOutlines"
       }
     }
-  }
+  },
+  "bundledDependencies": [
+    "atom-package-deps",
+    "download",
+    "pivotal-atom-languageclient-commons"
+  ]
 }
