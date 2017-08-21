@@ -1,4 +1,4 @@
-'.source.yaml':
+'.source.cf-manifest-yaml':
   'editor':
     'autoIndentOnPaste': false
     'commentStart': '# '
