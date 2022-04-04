@@ -1,0 +1,2 @@
+# atom-cf-manifest-yaml is no longer actively maintained by VMware, Inc.
+
